@@ -1,0 +1,7 @@
+{
+  "name": "Cheap Cards Showcase",
+  "description": "A premium, animated, mobile-first showcase website for digital gift cards and subscriptions in Kurdish Sorani, featuring an admin dashboard and WhatsApp automation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
